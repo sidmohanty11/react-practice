@@ -1,0 +1,15 @@
+[
+{
+  "email": "sidmohanty11@gmail.com",
+  "password": "sidharth",
+  "name": "sidharth",
+  "username": "sid",
+  "image_url": "image"
+},
+{
+  "room_id": "614c66ef272ce927f47714bb",
+  "to": "sidharth",
+  "from": "sid",
+  "message": "hi"
+}
+]
