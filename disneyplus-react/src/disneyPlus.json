@@ -1,0 +1,112 @@
+{
+    "movies":{
+        "1":{
+            "backgroundImg":"https://www.cnet.com/a/img/8hCTVdv5PbjQe3QwbS17Sw9CTPo=/1200x675/2019/04/25/9277c764-601d-4ab3-85f9-9c39d7f1ac5a/avengers-endgame-promo-crop.jpg",
+            "cardImg":"https://www.thenewsfetcher.com/wp-content/uploads/2020/02/817597-avengers-endgame.jpg",
+            "description":"After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
+            "subTitle":"2019 | 2h 40m | Avengers Assemble",
+            "title":"Avengers Endgame",
+            "titleImg":"https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/04/avengers-endgame-1619486515.jpg",
+            "type":"recommend"
+        },
+        "2": {
+            "backgroundImg": "https://i.ytimg.com/vi/0LHxvxdRnYc/maxresdefault.jpg",
+            "cardImg": "https://cdn.vox-cdn.com/thumbor/1qKVkwethSDsd3qRhd8_TBsHBow=/0x0:1657x858/1200x800/filters:focal(697x297:961x561)/cdn.vox-cdn.com/uploads/chorus_image/image/63184208/CaptainMarvel5c1d2766eb7f0.0.jpg",
+            "description": "Amidst a mission, Vers, a Kree warrior, gets separated from her team and is stranded on Earth. However, her life takes an unusual turn after she teams up with Fury, a S.H.I.E.L.D. agent.",
+            "subTitle": "2019 | 2h 40m | She is the saviour",
+            "title": "Captain Marvel",
+            "titleImg":"https://www.denofgeek.com/wp-content/uploads/2015/04/captain-marvel-costume-brie-larson-mcu-movie.png?fit=640%2C409" ,
+            "type":"recommend"
+        },
+        "3": {
+            "backgroundImg":"https://cdn.murphysmultiverse.com/wp-content/uploads/2021/03/thumbknail-original.jpg" ,
+            "cardImg": "https://i.ytimg.com/vi/i5QV-9LGqcM/maxresdefault.jpg",
+            "description":"Based on the comic book by Stan Lee and Steve Ditko." ,
+            "subTitle":"2019 | 2h 40m | Peter Garfield and Holland" ,
+            "title": "Spiderman: No Way Home",
+            "titleImg":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGP5vNcYBg2ZZued-PsLnvGZywUEHgAKYjQw&usqp=CAU" ,
+            "type":"recommend"
+        },
+        "4": {
+            "backgroundImg":"https://miro.medium.com/max/2560/1*DRrnpu9WsX7igZTk5ZPw5g.jpeg" ,
+            "cardImg": "https://lumiere-a.akamaihd.net/v1/images/image_ae8be528.jpeg?region=0,0,1920,1080",
+            "description":"Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good." ,
+            "subTitle":"2019 | 2h 40m | Coming of Age" ,
+            "title": "Raya",
+            "titleImg":"https://i0.wp.com/i.dailymail.co.uk/1s/2021/03/07/18/40171630-0-image-a-1_1615141423038.jpg?ssl=1" ,
+            "type":"recommend"
+        },
+        "5": {
+            "backgroundImg":"https://static3.srcdn.com/wordpress/wp-content/uploads/2020/12/I-am-Groot-Baby-Groot-Disney.jpg" ,
+            "cardImg": "",
+            "description":"" ,
+            "subTitle": "2019 | 2h 40m | Groot, baby",
+            "title": "I am Groot",
+            "titleImg":"" ,
+            "type":"new"
+        },
+        "6": {
+            "backgroundImg":"https://thedirect.s3.amazonaws.com/media/article_full/aco.jpg" ,
+            "cardImg":"" ,
+            "description":"" ,
+            "subTitle":"2019 | 2h 40m | Stars at war" ,
+            "title": "The Acolyte",
+            "titleImg":"" ,
+            "type":"new"
+        },
+        "7": {
+            "backgroundImg":"https://www.denofgeek.com/wp-content/uploads/2016/11/moana_review_0.jpeg?resize=768%2C432" ,
+            "cardImg":"" ,
+            "description":"" ,
+            "subTitle":"2019 | 2h 40m | She might" ,
+            "title": "Moana",
+            "titleImg":"" ,
+            "type":"new"
+        },
+        "8": {
+            "backgroundImg":"" ,
+            "cardImg":"" ,
+            "description":"" ,
+            "subTitle":"2019 | 2h 40m | The Four" ,
+            "title": "Fantastic Four",
+            "titleImg":"" ,
+            "type":"new"
+        },
+        "9": {
+            "backgroundImg":"" ,
+            "cardImg":"" ,
+            "description": "",
+            "subTitle":"2019 | 2h 40m | Assembled" ,
+            "title": "Assembled",
+            "titleImg":"" ,
+            "type":"original"
+        },
+        "10": {
+            "backgroundImg":"" ,
+            "cardImg":"" ,
+            "description":"" ,
+            "subTitle":"2019 | 2h 40m | Stars at War" ,
+            "title": "Mandalorian",
+            "titleImg":"" ,
+            "type":"original"
+        },
+        "11": {
+            "backgroundImg": "",
+            "cardImg": "",
+            "description":"" ,
+            "subTitle":"2019 | 2h 40m | The Winter Soldier" ,
+            "title":"The Falcon" ,
+            "titleImg":"" ,
+            "type":"original"
+        },
+        "12": {
+            "backgroundImg": "",
+            "cardImg": "",
+            "description":"" ,
+            "subTitle": "2019 | 2h 40m | The Romantic Comedy",
+            "title": "High School Musical",
+            "titleImg":"" ,
+            "type":"original"
+        }
+    }
+}
